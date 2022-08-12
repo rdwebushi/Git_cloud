@@ -1,0 +1,5 @@
+apache kafka 
+
+[]
+synvhronus= immediate
+asynchronus= Delayes 

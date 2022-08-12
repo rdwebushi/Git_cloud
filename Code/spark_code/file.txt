@@ -1,0 +1,5 @@
+Apache spark is very intresting language 
+Hadoop is different.
+spark is quite advanced.
+it is noticable that spark is quite fast, too.
+spark is very easy to learn 
